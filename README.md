@@ -15,5 +15,3 @@ We saw add-on development tools like:
 - Webpack DevServer.
 - Webpack Bundle Analyzer.
 - Webpack Dev Tools.
-
-And we did a basic integration of React.js in the project, configuring Webpack 5, loaders and CSS, optimizing the Webpack for React, generating the final deploy of the project to "netlify.com"
